@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://sotskayaea.github.io/food-delivery",
+  "homepage": "https://sotskayaea.github.io/food-adaptive",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /food-delivery/"
+    "build": "parcel build src/*.html --public-url /food-adaptive/"
   },
   "repository": {
     "type": "git",
